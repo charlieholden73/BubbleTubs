@@ -4,6 +4,10 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+img1{
+    display: block;
+    margin: auto;
+}
 body a {
   transition: 0.5s all;
   -webkit-transition: 0.5s all;
@@ -205,7 +209,7 @@ ul.nav.navbar-nav {
 	margin:4em 0 0 0;
 }
 .agileits-about-grid p{
-	font-size:.9em;
+	font-size:1em;
 	margin:0;
 	line-height:1.8em;
 	color:#999999;
@@ -257,7 +261,7 @@ ul.nav.navbar-nav {
     text-transform: uppercase;
 }
 .middle-bottom-grids p {
-    font-size: .9em;
+    font-size: 1em;
     text-align: left;
     line-height: 1.8em;
     margin: 1em 0 0 0;
@@ -526,8 +530,8 @@ li.agileinfo_share {
 }
 .blog-left-left {
     float: left;
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     background: #8BC34A;
     text-align: center;
     padding: 1.3em 0 0 0;
@@ -542,7 +546,7 @@ i.fa.fa-pencil {
     margin-left: 1em;
 }
 .blog-left-right-top h4 {
-    color: #000000;
+    color: #77c1bf;
     font-size: 1em;
     margin: 0 0 .5em 0;
     font-weight: 600;
